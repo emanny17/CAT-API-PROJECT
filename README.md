@@ -362,7 +362,7 @@ For detailed deployment instructions, see [DEPLOYMENT.md](DEPLOYMENT.md)
 
 **Test the /me endpoint:**
 ```bash
-curl http://localhost:3000/me
+curl http://localhost:8080/me
 ```
 
 Expected: JSON response with status, user, timestamp, and fact
@@ -497,5 +497,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or need help:
 - Open an issue on GitHub
 - Contact: emmanuelnwosu109@gmail.com
+
 
 
