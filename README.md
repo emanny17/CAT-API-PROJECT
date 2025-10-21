@@ -29,7 +29,6 @@ A RESTful API that returns user information along with random cat facts from the
 - ✅ Graceful error handling with fallback messages
 - ✅ CORS enabled for cross-origin requests
 - ✅ Request logging with timestamps
-- ✅ Health check endpoint
 - ✅ Production-ready error handling
 - ✅ Environment-based configuration
 - ✅ API timeout protection (5 seconds)
@@ -498,4 +497,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or need help:
 - Open an issue on GitHub
 - Contact: emmanuelnwosu109@gmail.com
+
 
