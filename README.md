@@ -1,6 +1,8 @@
 # 🐱 Cat Facts API
 
-A RESTful API that returns user information along with random cat facts from the Cat Facts API.
+This project was built for the HNGi13 Backend Internship (Stage 0).
+
+It is a RESTful API that returns user information along with random cat facts from the Cat Facts API.
 
 ## 📋 Table of Contents
 
@@ -497,6 +499,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or need help:
 - Open an issue on GitHub
 - Contact: emmanuelnwosu109@gmail.com
+
 
 
 
