@@ -73,9 +73,9 @@ app.get(
     const responseData = {
       status: "success",
       user: {
-        email: process.env.USER_EMAIL,
-        name: process.env.USER_NAME,
-        stack: process.env.USER_STACK,
+        email: process.env.USER_EMAIL || "emmanuelnwosu109@gmail.com",
+        name: process.env.USER_NAME || "Emmanuel Nwosu",
+        stack: process.env.USER_STACK || "Node.js/Express"
       },
       timestamp: new Date().toISOString(),
       fact: catFact,
